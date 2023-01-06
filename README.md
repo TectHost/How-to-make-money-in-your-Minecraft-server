@@ -9,7 +9,8 @@ sell anything on your server as long as it does not give a real advantage, that 
 SkyWars and EggWars:
 
 ✔️ Can I sell kits or give kits to VIPs
-✖I cannot sell kits or give kits to VIPs that offer an advantage over other players who have not put
+
+✖ I cannot sell kits or give kits to VIPs that offer an advantage over other players who have not put
 money in.
 
 #### ⚠️¡Remember!
