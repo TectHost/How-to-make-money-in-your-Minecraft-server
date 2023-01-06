@@ -49,7 +49,7 @@ Some free plugins that you can use on your server to avoid violating the EULA:
 2. [GadgetsMenu](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-19-3-free.10885/) (cosmetics)
 3. [LuckPerms](https://luckperms.net/) (ranks)
 4. [AlonsoTags](https://www.spigotmc.org/resources/%E2%9C%85-alonsotags-1-8-1-19-%E2%80%A2-unlimited-tags-textures-custom-model-data.83664/) (tags)
-5. [zAngelTags] (https://www.spigotmc.org/resources/zangeltags-mysql-mariadb-and-sqlite-support-%E2%9C%85-multi-server.102952/) (tags)
+5. [zAngelTags](https://www.spigotmc.org/resources/zangeltags-mysql-mariadb-and-sqlite-support-%E2%9C%85-multi-server.102952/) (tags)
 6. [DeluxeTags](https://www.spigotmc.org/resources/deluxetags.4390/) (tags)
 
 ### 5 - Others
